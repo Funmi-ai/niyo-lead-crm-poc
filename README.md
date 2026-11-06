@@ -29,7 +29,7 @@ A Streamlit dashboard (`dashboard/app.py`) lets a reviewer step through the same
 
 ## My contribution
 
-Designed and built solo: the pipeline, the scoring rules, the CRM abstraction and both its implementations, the outreach templates, the dashboard, the synthetic dataset generator, and the test suite. No team, no prior codebase.
+Built with Claude Code under my direction. I scoped the problem from Niyo's public offering and set what the prototype needed to do; Claude Code wrote the implementation — the pipeline, the CRM interface and simulator, the outreach templates, the dashboard, the synthetic data generator and the tests. No team, no prior codebase.
 
 ## Reliability considerations
 
