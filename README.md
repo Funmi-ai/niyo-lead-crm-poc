@@ -1,6 +1,8 @@
-# niyo-lead-crm-poc
+# niyo-lead-crm-poc — Niyo-inspired Lead Qualification & CRM Prototype
 
-A proof-of-concept lead-qualification and CRM pipeline, built around the public offering of [Niyo](https://niyo.co) — a UK company that trains people for AI and tech careers and places them with corporate and public-sector partners. Built on synthetic data. Not a live integration, not a signed engagement.
+**Independent prototype using synthetic data. Not a live deployment or endorsed integration.**
+
+A proof-of-concept lead-qualification and CRM pipeline, inspired by the public offering of [Niyo](https://niyo.co) — a UK company that trains people for AI and tech careers and places them with corporate and public-sector partners. Built on synthetic data, using only facts from Niyo's own public website. Not a live integration, not a signed engagement, not commissioned or endorsed by Niyo.
 
 ## Problem
 
