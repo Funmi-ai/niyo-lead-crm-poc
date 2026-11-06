@@ -1,0 +1,2433 @@
+{
+  "companies": {
+    "Castlemere Logistics Ltd": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Castlemere Logistics Ltd",
+      "organisation_type": "Private company",
+      "sector": "Logistics",
+      "organisation_size": "250-999",
+      "website": "https://www.castlemerelogistics.example.com",
+      "location": "Birmingham, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Silverline Financial Services": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Silverline Financial Services",
+      "organisation_type": "Private company",
+      "sector": "Financial Services",
+      "organisation_size": "250-999",
+      "website": "https://www.silverlinefs.example.com",
+      "location": "London, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Harrow Tech Solutions": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Harrow Tech Solutions",
+      "organisation_type": "Private company",
+      "sector": "Technology / Software",
+      "organisation_size": "50-249",
+      "website": "https://www.harrowtech.example.com",
+      "location": "Manchester, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Granville Partners LLP": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Granville Partners LLP",
+      "organisation_type": "Private company",
+      "sector": "Professional Services / Consulting",
+      "organisation_size": "50-249",
+      "website": "https://www.granvillepartners.example.com",
+      "location": "Leeds, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Brightwell Financial Group": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Brightwell Financial Group",
+      "organisation_type": "Private company",
+      "sector": "Financial Services",
+      "organisation_size": "250-999",
+      "website": "https://www.brightwellfg.example.com",
+      "location": "London, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Oakfield Retail Group": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Oakfield Retail Group",
+      "organisation_type": "Private company",
+      "sector": "Retail",
+      "organisation_size": "1-9",
+      "website": "https://www.oakfieldretail.example.com",
+      "location": "Bristol, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Thornbury Manufacturing": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Thornbury Manufacturing",
+      "organisation_type": "Private company",
+      "sector": "Engineering / Manufacturing",
+      "organisation_size": "1-9",
+      "website": "https://www.thornburymfg.example.com",
+      "location": "Sheffield, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Marchbank Engineering": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Marchbank Engineering",
+      "organisation_type": "Private company",
+      "sector": "Engineering / Manufacturing",
+      "organisation_size": "250-999",
+      "website": "https://www.marchbankeng.example.com",
+      "location": "Newcastle, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Corvid Technology Ltd": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Corvid Technology Ltd",
+      "organisation_type": "Private company",
+      "sector": "Technology / Software",
+      "organisation_size": "10-49",
+      "website": "https://www.corvidtech.example.com",
+      "location": "Edinburgh, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Westfold Retail Holdings": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Westfold Retail Holdings",
+      "organisation_type": "Private company",
+      "sector": "Retail",
+      "organisation_size": "250-999",
+      "website": "https://www.westfoldretail.example.com",
+      "location": "Cardiff, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Pennington Engineering Ltd": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Pennington Engineering Ltd",
+      "organisation_type": "Private company",
+      "sector": "Engineering / Manufacturing",
+      "organisation_size": "50-249",
+      "website": "https://www.penningtoneng.example.com",
+      "location": "Coventry, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Keel & Vane Software": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Keel & Vane Software",
+      "organisation_type": "Private company",
+      "sector": "Technology / Software",
+      "organisation_size": "10-49",
+      "website": "https://www.keelvane.example.com",
+      "location": "London, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Linden Grove Consulting": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Linden Grove Consulting",
+      "organisation_type": "Private company",
+      "sector": "Professional Services / Consulting",
+      "organisation_size": "10-49",
+      "website": "https://www.lindengrove.example.com",
+      "location": "Glasgow, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Ashcombe Logistics": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Ashcombe Logistics",
+      "organisation_type": "Private company",
+      "sector": "Logistics",
+      "organisation_size": "50-249",
+      "website": "https://www.ashcombelogistics.example.com",
+      "location": "Liverpool, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Fenbridge Consulting Group": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Fenbridge Consulting Group",
+      "organisation_type": "Private company",
+      "sector": "Professional Services / Consulting",
+      "organisation_size": "10-49",
+      "website": "https://www.fenbridgeconsulting.example.com",
+      "location": "Leicester, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Heathgate Capital Partners": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Heathgate Capital Partners",
+      "organisation_type": "Private company",
+      "sector": "Financial Services",
+      "organisation_size": "250-999",
+      "website": "https://www.heathgatecapital.example.com",
+      "location": "London, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Dunmore Retail Analytics": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Dunmore Retail Analytics",
+      "organisation_type": "Private company",
+      "sector": "Technology / Software",
+      "organisation_size": "10-49",
+      "website": "https://www.dunmoreretail.example.com",
+      "location": "Bristol, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Colyer & Boothe Engineering": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Colyer & Boothe Engineering",
+      "organisation_type": "Private company",
+      "sector": "Engineering / Manufacturing",
+      "organisation_size": "1-9",
+      "website": "https://www.colyerboothe.example.com",
+      "location": "Derby, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Castlemere Combined Authority": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Castlemere Combined Authority",
+      "organisation_type": "Combined authority",
+      "sector": "Local Government",
+      "organisation_size": "250+",
+      "website": "https://www.castlemereca.example.gov.uk",
+      "location": "Birmingham, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Thornbury Metropolitan Council": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Thornbury Metropolitan Council",
+      "organisation_type": "Local authority",
+      "sector": "Local Government",
+      "organisation_size": "250+",
+      "website": "https://www.thornburycouncil.example.gov.uk",
+      "location": "Sheffield, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Elmsworth District Council": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Elmsworth District Council",
+      "organisation_type": "Local authority",
+      "sector": "Local Government",
+      "organisation_size": "50-249",
+      "website": "https://www.elmsworthcouncil.example.gov.uk",
+      "location": "Elmsworth, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Northgate City Council": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Northgate City Council",
+      "organisation_type": "Local authority",
+      "sector": "Local Government",
+      "organisation_size": "250+",
+      "website": "https://www.northgatecouncil.example.gov.uk",
+      "location": "Newcastle, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Ridgeway County Council": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Ridgeway County Council",
+      "organisation_type": "Local authority",
+      "sector": "Local Government",
+      "organisation_size": "250+",
+      "website": "https://www.ridgewaycouncil.example.gov.uk",
+      "location": "Oxford, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Marshside Borough Council": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Marshside Borough Council",
+      "organisation_type": "Local authority",
+      "sector": "Local Government",
+      "organisation_size": "50-249",
+      "website": "https://www.marshsideborough.example.gov.uk",
+      "location": "Hull, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Vale of Elmsworth Enterprise Partnership": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Vale of Elmsworth Enterprise Partnership",
+      "organisation_type": "Public sector body",
+      "sector": "Employment & Skills",
+      "organisation_size": "50-249",
+      "website": "https://www.valeelmsworthlep.example.gov.uk",
+      "location": "Elmsworth, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Oakridge Further Education College": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Oakridge Further Education College",
+      "organisation_type": "Public sector body",
+      "sector": "Education",
+      "organisation_size": "250+",
+      "website": "https://www.oakridgefe.example.ac.uk",
+      "location": "Oakridge, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Bramcote Health Partnership": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Bramcote Health Partnership",
+      "organisation_type": "Public sector body",
+      "sector": "Health",
+      "organisation_size": "250+",
+      "website": "https://www.bramcotehealth.example.nhs.uk",
+      "location": "Nottingham, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Greywell Youth Service": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Greywell Youth Service",
+      "organisation_type": "Public sector body",
+      "sector": "Youth Services",
+      "organisation_size": "10-49",
+      "website": "https://www.greywellyouth.example.gov.uk",
+      "location": "Preston, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Hartwell Metropolitan Borough": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Hartwell Metropolitan Borough",
+      "organisation_type": "Local authority",
+      "sector": "Local Government",
+      "organisation_size": "250+",
+      "website": "https://www.hartwellborough.example.gov.uk",
+      "location": "Wolverhampton, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Thornbury Youth Trust": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Thornbury Youth Trust",
+      "organisation_type": "Charity / social enterprise",
+      "sector": "Youth Services",
+      "organisation_size": "10-49",
+      "website": "https://www.thornburyyouthtrust.example.org",
+      "location": "Sheffield, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Bridgeview Community Foundation": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Bridgeview Community Foundation",
+      "organisation_type": "Charity / social enterprise",
+      "sector": "Community / Voluntary",
+      "organisation_size": "1-9",
+      "website": "https://www.bridgeviewfoundation.example.org",
+      "location": "Luton, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Elmsworth Skills Charity": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Elmsworth Skills Charity",
+      "organisation_type": "Charity / social enterprise",
+      "sector": "Employment & Skills",
+      "organisation_size": "10-49",
+      "website": "https://www.elmsworthskills.example.org",
+      "location": "Elmsworth, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Oak & Acorn Social Enterprise": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Oak & Acorn Social Enterprise",
+      "organisation_type": "Charity / social enterprise",
+      "sector": "Community / Voluntary",
+      "organisation_size": "1-9",
+      "website": "https://www.oakandacorn.example.org",
+      "location": "Bristol, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Riverside Futures CIC": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Riverside Futures CIC",
+      "organisation_type": "Charity / social enterprise",
+      "sector": "Community / Voluntary",
+      "organisation_size": "10-49",
+      "website": "https://www.riversidefutures.example.org",
+      "location": "Cardiff, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Northgate Youth Connect": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Northgate Youth Connect",
+      "organisation_type": "Unknown",
+      "sector": "Youth Services",
+      "organisation_size": "Unknown",
+      "website": "https://www.northgateyouthconnect.example.org",
+      "location": "Newcastle, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Fernhill Collective": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Fernhill Collective",
+      "organisation_type": "Unknown",
+      "sector": "Unknown",
+      "organisation_size": "Unknown",
+      "website": "https://www.fernhillcollective.example.org",
+      "location": "Unknown",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Abbotswood Data Systems": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Abbotswood Data Systems",
+      "organisation_type": "Private company",
+      "sector": "Technology / Software",
+      "organisation_size": "50-249",
+      "website": "https://www.abbotswooddata.example.com",
+      "location": "Reading, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Carrow & Finch Insurance": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Carrow & Finch Insurance",
+      "organisation_type": "Private company",
+      "sector": "Financial Services",
+      "organisation_size": "250-999",
+      "website": "https://www.carrowfinch.example.com",
+      "location": "Norwich, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Ironford Steel Group": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Ironford Steel Group",
+      "organisation_type": "Private company",
+      "sector": "Engineering / Manufacturing",
+      "organisation_size": "250-999",
+      "website": "https://www.ironfordsteel.example.com",
+      "location": "Sheffield, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Quillon Media Group": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Quillon Media Group",
+      "organisation_type": "Private company",
+      "sector": "Technology / Software",
+      "organisation_size": "10-49",
+      "website": "https://www.quillonmedia.example.com",
+      "location": "Brighton, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Dovecote NHS Trust": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Dovecote NHS Trust",
+      "organisation_type": "Public sector body",
+      "sector": "Health",
+      "organisation_size": "250+",
+      "website": "https://www.dovecotenhs.example.nhs.uk",
+      "location": "York, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Priorswood Parish Council": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Priorswood Parish Council",
+      "organisation_type": "Local authority",
+      "sector": "Local Government",
+      "organisation_size": "1-9",
+      "website": "https://www.priorswoodparish.example.gov.uk",
+      "location": "Taunton, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Cliffmoor Enterprise Hub": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Cliffmoor Enterprise Hub",
+      "organisation_type": "Charity / social enterprise",
+      "sector": "Employment & Skills",
+      "organisation_size": "10-49",
+      "website": "https://www.cliffmoorhub.example.org",
+      "location": "Plymouth, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "Westgate Business Improvement District": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "name": "Westgate Business Improvement District",
+      "organisation_type": "Private company",
+      "sector": "Professional Services / Consulting",
+      "organisation_size": "10-49",
+      "website": "https://www.westgatebid.example.com",
+      "location": "Southampton, UK",
+      "updated_at": "2026-10-15T13:38:51Z"
+    }
+  },
+  "contacts": {
+    "LEAD-001": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-001",
+      "name": "Priya Chandra",
+      "job_title": "Head of Learning & Development",
+      "email": "priya.chandra@castlemerelogistics.example.com",
+      "organisation_name": "Castlemere Logistics Ltd",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-002": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-002",
+      "name": "Daniel Okafor",
+      "job_title": "Head of Talent",
+      "email": "daniel.okafor@silverlinefs.example.com",
+      "organisation_name": "Silverline Financial Services",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-003": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-003",
+      "name": "Meera Patel",
+      "job_title": "VP Engineering",
+      "email": "meera.patel@harrowtech.example.com",
+      "organisation_name": "Harrow Tech Solutions",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-004": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-004",
+      "name": "Owen Marsh",
+      "job_title": "Partner, People & Culture",
+      "email": "owen.marsh@granvillepartners.example.com",
+      "organisation_name": "Granville Partners LLP",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-005": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-005",
+      "name": "Isabelle Cho",
+      "job_title": "Chief People Officer",
+      "email": "isabelle.cho@brightwellfg.example.com",
+      "organisation_name": "Brightwell Financial Group",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-006": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-006",
+      "name": "Callum Reid",
+      "job_title": "Store Operations Manager",
+      "email": "callum.reid@oakfieldretail.example.com",
+      "organisation_name": "Oakfield Retail Group",
+      "decision_maker_status": "Influencer",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-007": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-007",
+      "name": "Grace Fenwick",
+      "job_title": "Office Manager",
+      "email": "grace.fenwick@thornburymfg.example.com",
+      "organisation_name": "Thornbury Manufacturing",
+      "decision_maker_status": "Not a decision-maker",
+      "consent_status": "Unknown",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-008": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-008",
+      "name": "",
+      "job_title": "",
+      "email": "info@marchbankeng.example.com",
+      "organisation_name": "Marchbank Engineering",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Needs review",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-009": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-009",
+      "name": "Sam Whitfield",
+      "job_title": "Engineering Lead",
+      "email": "sam.whitfield@corvidtech.example.com",
+      "organisation_name": "Corvid Technology Ltd",
+      "decision_maker_status": "Influencer",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-010": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-010",
+      "name": "Natasha Byrne",
+      "job_title": "Group HR Director",
+      "email": "natasha.byrne@westfoldretail.example.com",
+      "organisation_name": "Westfold Retail Holdings",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-011": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-011",
+      "name": "Jonathan Vale",
+      "job_title": "Head of People",
+      "email": "jonathan.vale@penningtoneng.example.com",
+      "organisation_name": "Pennington Engineering Ltd",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-012": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-012",
+      "name": "Olu Bankole",
+      "job_title": "COO",
+      "email": "olu.bankole@keelvane.example.com",
+      "organisation_name": "Keel & Vane Software",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-013": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-013",
+      "name": "Freya Thomson",
+      "job_title": "Managing Director",
+      "email": "freya.thomson@lindengrove.example.com",
+      "organisation_name": "Linden Grove Consulting",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-014": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-014",
+      "name": "Ruth Okonjo",
+      "job_title": "HR Manager",
+      "email": "ruth.okonjo@ashcombelogistics.example.com",
+      "organisation_name": "Ashcombe Logistics",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Do not contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-015": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-015",
+      "name": "Tariq Hussain",
+      "job_title": "Director",
+      "email": "tariq.hussain@fenbridgeconsulting.example.com",
+      "organisation_name": "Fenbridge Consulting Group",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Do not contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-016": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-016",
+      "name": "Alicia Fontaine",
+      "job_title": "Head of Early Careers",
+      "email": "alicia.fontaine@heathgatecapital.example.com",
+      "organisation_name": "Heathgate Capital Partners",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-017": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-017",
+      "name": "Ben Okafor",
+      "job_title": "Founder & CEO",
+      "email": "ben.okafor@dunmoreretail.example.com",
+      "organisation_name": "Dunmore Retail Analytics",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-018": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-018",
+      "name": "Marion Clegg",
+      "job_title": "Finance Director",
+      "email": "marion.clegg@colyerboothe.example.com",
+      "organisation_name": "Colyer & Boothe Engineering",
+      "decision_maker_status": "Not a decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-019": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-019",
+      "name": "Fiona Okwuosa",
+      "job_title": "Head of Skills & Employment",
+      "email": "fiona.okwuosa@castlemereca.example.gov.uk",
+      "organisation_name": "Castlemere Combined Authority",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-020": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-020",
+      "name": "Patrick Nwosu",
+      "job_title": "Director of Employment & Skills",
+      "email": "patrick.nwosu@thornburycouncil.example.gov.uk",
+      "organisation_name": "Thornbury Metropolitan Council",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-021": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-021",
+      "name": "Diane Whitlock",
+      "job_title": "Economic Development Officer",
+      "email": "diane.whitlock@elmsworthcouncil.example.gov.uk",
+      "organisation_name": "Elmsworth District Council",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-022": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-022",
+      "name": "Imogen Falk",
+      "job_title": "Head of Digital Inclusion",
+      "email": "imogen.falk@northgatecouncil.example.gov.uk",
+      "organisation_name": "Northgate City Council",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-023": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-023",
+      "name": "Harriet Soames",
+      "job_title": "Skills Commissioning Lead",
+      "email": "harriet.soames@ridgewaycouncil.example.gov.uk",
+      "organisation_name": "Ridgeway County Council",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-024": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-024",
+      "name": "Callum Reith",
+      "job_title": "Policy Officer",
+      "email": "callum.reith@marshsideborough.example.gov.uk",
+      "organisation_name": "Marshside Borough Council",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Needs review",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-025": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-025",
+      "name": "",
+      "job_title": "Programme Manager",
+      "email": "contact@valeelmsworthlep.example.gov.uk",
+      "organisation_name": "Vale of Elmsworth Enterprise Partnership",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Unknown",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-026": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-026",
+      "name": "Dr Susan Fairweather",
+      "job_title": "Vice Principal, Curriculum",
+      "email": "susan.fairweather@oakridgefe.example.ac.uk",
+      "organisation_name": "Oakridge Further Education College",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-027": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-027",
+      "name": "Nadia Qureshi",
+      "job_title": "Workforce Development Lead",
+      "email": "nadia.qureshi@bramcotehealth.example.nhs.uk",
+      "organisation_name": "Bramcote Health Partnership",
+      "decision_maker_status": "Influencer",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-028": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-028",
+      "name": "Tom Abara",
+      "job_title": "Service Manager",
+      "email": "tom.abara@greywellyouth.example.gov.uk",
+      "organisation_name": "Greywell Youth Service",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-029": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-029",
+      "name": "Lily Ferron",
+      "job_title": "Admin Assistant, Economic Development",
+      "email": "lily.ferron@hartwellborough.example.gov.uk",
+      "organisation_name": "Hartwell Metropolitan Borough",
+      "decision_maker_status": "Not a decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-030": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-030",
+      "name": "Abena Osei",
+      "job_title": "Chief Executive",
+      "email": "abena.osei@thornburyyouthtrust.example.org",
+      "organisation_name": "Thornbury Youth Trust",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-031": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-031",
+      "name": "Grace Nwankwo",
+      "job_title": "Programmes Director",
+      "email": "grace.nwankwo@bridgeviewfoundation.example.org",
+      "organisation_name": "Bridgeview Community Foundation",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-032": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-032",
+      "name": "Peter Langham",
+      "job_title": "Head of Partnerships",
+      "email": "peter.langham@elmsworthskills.example.org",
+      "organisation_name": "Elmsworth Skills Charity",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-033": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-033",
+      "name": "Jade Fitzgerald",
+      "job_title": "Founder",
+      "email": "jade.fitzgerald@oakandacorn.example.org",
+      "organisation_name": "Oak & Acorn Social Enterprise",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Needs review",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-034": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-034",
+      "name": "Michael Osei",
+      "job_title": "Operations Lead",
+      "email": "michael.osei@riversidefutures.example.org",
+      "organisation_name": "Riverside Futures CIC",
+      "decision_maker_status": "Influencer",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-035": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-035",
+      "name": "Sarah Vance",
+      "job_title": "Coordinator",
+      "email": "sarah.vance@northgateyouthconnect.example.org",
+      "organisation_name": "Northgate Youth Connect",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Unknown",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-036": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-036",
+      "name": "Rowan Blake",
+      "job_title": "Unknown",
+      "email": "rowan.blake@fernhillcollective.example.org",
+      "organisation_name": "Fernhill Collective",
+      "decision_maker_status": "Unknown",
+      "consent_status": "Needs review",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-037": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-037",
+      "name": "Yusuf Demir",
+      "job_title": "Head of Talent Acquisition",
+      "email": "yusuf.demir@abbotswooddata.example.com",
+      "organisation_name": "Abbotswood Data Systems",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-038": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-038",
+      "name": "Eleanor Vosper",
+      "job_title": "Group Learning Director",
+      "email": "eleanor.vosper@carrowfinch.example.com",
+      "organisation_name": "Carrow & Finch Insurance",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-039": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-039",
+      "name": "Craig Donaldson",
+      "job_title": "HR Business Partner",
+      "email": "craig.donaldson@ironfordsteel.example.com",
+      "organisation_name": "Ironford Steel Group",
+      "decision_maker_status": "Influencer",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-040": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-040",
+      "name": "Harriet Okafor",
+      "job_title": "Founder",
+      "email": "harriet.okafor@quillonmedia.example.com",
+      "organisation_name": "Quillon Media Group",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-041": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-041",
+      "name": "Farrah Siddiqui",
+      "job_title": "Head of OD & Workforce",
+      "email": "farrah.siddiqui@dovecotenhs.example.nhs.uk",
+      "organisation_name": "Dovecote NHS Trust",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-042": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-042",
+      "name": "Edward Lyle",
+      "job_title": "Parish Clerk",
+      "email": "edward.lyle@priorswoodparish.example.gov.uk",
+      "organisation_name": "Priorswood Parish Council",
+      "decision_maker_status": "Not a decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-043": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-043",
+      "name": "Dominic Shaw",
+      "job_title": "Centre Manager",
+      "email": "dominic.shaw@cliffmoorhub.example.org",
+      "organisation_name": "Cliffmoor Enterprise Hub",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-044": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-044",
+      "name": "Charlotte Reavey",
+      "job_title": "Director",
+      "email": "charlotte.reavey@westgatebid.example.com",
+      "organisation_name": "Westgate Business Improvement District",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-045": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-045",
+      "name": "Priya Chandra",
+      "job_title": "Head of Learning & Development",
+      "email": "priya.chandra@castlemerelogistics.example.com",
+      "organisation_name": "Castlemere Logistics Ltd",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-046": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-046",
+      "name": "Daniel Okafor",
+      "job_title": "Head of Talent",
+      "email": "daniel.okafor@silverlinefs.example.com",
+      "organisation_name": "Silverline Financial Services",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-047": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-047",
+      "name": "Fiona Okwuosa",
+      "job_title": "Head of Skills & Employment",
+      "email": "fiona.okwuosa@castlemereca.example.gov.uk",
+      "organisation_name": "Castlemere Combined Authority",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-048": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-048",
+      "name": "Abena Osei",
+      "job_title": "Chief Executive",
+      "email": "abena.osei@thornburyyouthtrust.example.org",
+      "organisation_name": "Thornbury Youth Trust",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-049": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-049",
+      "name": "Jonathan Vale",
+      "job_title": "Head of People",
+      "email": "jonathan.vale@penningtoneng.example.com",
+      "organisation_name": "Pennington Engineering Ltd",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-050": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-050",
+      "name": "Diane Whitlock",
+      "job_title": "Economic Development Officer",
+      "email": "diane.whitlock@elmsworthcouncil.example.gov.uk",
+      "organisation_name": "Elmsworth District Council",
+      "decision_maker_status": "Decision-maker",
+      "consent_status": "OK to contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    }
+  },
+  "deals": {
+    "LEAD-001": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-001",
+      "organisation_name": "Castlemere Logistics Ltd",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 95,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-002": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-002",
+      "organisation_name": "Silverline Financial Services",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 85,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-003": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-003",
+      "organisation_name": "Harrow Tech Solutions",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 95,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-004": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-004",
+      "organisation_name": "Granville Partners LLP",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 85,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-005": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-005",
+      "organisation_name": "Brightwell Financial Group",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-006": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-006",
+      "organisation_name": "Oakfield Retail Group",
+      "pipeline": "Private-sector",
+      "stage": "Low priority / monitor",
+      "score": 38,
+      "needs_human_review": false,
+      "recommended_next_action": "Low priority \u2014 monitor only, no active outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-007": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-007",
+      "organisation_name": "Thornbury Manufacturing",
+      "pipeline": "Private-sector",
+      "stage": "Low priority / monitor",
+      "score": 35,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-008": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-008",
+      "organisation_name": "Marchbank Engineering",
+      "pipeline": "Private-sector",
+      "stage": "Nurture",
+      "score": 55,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-009": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-009",
+      "organisation_name": "Corvid Technology Ltd",
+      "pipeline": "Private-sector",
+      "stage": "Nurture",
+      "score": 53,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-010": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-010",
+      "organisation_name": "Westfold Retail Holdings",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 75,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-011": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-011",
+      "organisation_name": "Pennington Engineering Ltd",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 90,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-012": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-012",
+      "organisation_name": "Keel & Vane Software",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-013": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-013",
+      "organisation_name": "Linden Grove Consulting",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 70,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-014": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-014",
+      "organisation_name": "Ashcombe Logistics",
+      "pipeline": "Private-sector",
+      "stage": "Excluded \u2014 Consent/lawful-outreach review marked this lead 'Do not contact'",
+      "score": 55,
+      "needs_human_review": false,
+      "recommended_next_action": "Do not contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-015": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-015",
+      "organisation_name": "Fenbridge Consulting Group",
+      "pipeline": "Private-sector",
+      "stage": "Excluded \u2014 Consent/lawful-outreach review marked this lead 'Do not contact'",
+      "score": 45,
+      "needs_human_review": false,
+      "recommended_next_action": "Do not contact",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-016": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-016",
+      "organisation_name": "Heathgate Capital Partners",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 95,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-017": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-017",
+      "organisation_name": "Dunmore Retail Analytics",
+      "pipeline": "Private-sector",
+      "stage": "Nurture",
+      "score": 65,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-018": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-018",
+      "organisation_name": "Colyer & Boothe Engineering",
+      "pipeline": "Private-sector",
+      "stage": "Low priority / monitor",
+      "score": 20,
+      "needs_human_review": false,
+      "recommended_next_action": "Identify the actual budget holder; use this contact only as an internal introduction",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-019": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-019",
+      "organisation_name": "Castlemere Combined Authority",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-020": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-020",
+      "organisation_name": "Thornbury Metropolitan Council",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 90,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-021": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-021",
+      "organisation_name": "Elmsworth District Council",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-022": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-022",
+      "organisation_name": "Northgate City Council",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 95,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-023": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-023",
+      "organisation_name": "Ridgeway County Council",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 65,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-024": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-024",
+      "organisation_name": "Marshside Borough Council",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 45,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-025": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-025",
+      "organisation_name": "Vale of Elmsworth Enterprise Partnership",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 45,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-026": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-026",
+      "organisation_name": "Oakridge Further Education College",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 90,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-027": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-027",
+      "organisation_name": "Bramcote Health Partnership",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 53,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-028": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-028",
+      "organisation_name": "Greywell Youth Service",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-029": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-029",
+      "organisation_name": "Hartwell Metropolitan Borough",
+      "pipeline": "Government-funded",
+      "stage": "Low priority / monitor",
+      "score": 35,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-030": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-030",
+      "organisation_name": "Thornbury Youth Trust",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 90,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-031": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-031",
+      "organisation_name": "Bridgeview Community Foundation",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 65,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-032": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-032",
+      "organisation_name": "Elmsworth Skills Charity",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-033": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-033",
+      "organisation_name": "Oak & Acorn Social Enterprise",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 45,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-034": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-034",
+      "organisation_name": "Riverside Futures CIC",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 53,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-035": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-035",
+      "organisation_name": "Northgate Youth Connect",
+      "pipeline": "Unclear",
+      "stage": "Low priority / monitor",
+      "score": 20,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-036": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-036",
+      "organisation_name": "Fernhill Collective",
+      "pipeline": "Unclear",
+      "stage": "Low priority / monitor",
+      "score": 20,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-037": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-037",
+      "organisation_name": "Abbotswood Data Systems",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 85,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-038": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-038",
+      "organisation_name": "Carrow & Finch Insurance",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 95,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-039": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-039",
+      "organisation_name": "Ironford Steel Group",
+      "pipeline": "Private-sector",
+      "stage": "Nurture",
+      "score": 68,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-040": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-040",
+      "organisation_name": "Quillon Media Group",
+      "pipeline": "Private-sector",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 75,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-041": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-041",
+      "organisation_name": "Dovecote NHS Trust",
+      "pipeline": "Government-funded",
+      "stage": "Nurture",
+      "score": 65,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-042": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-042",
+      "organisation_name": "Priorswood Parish Council",
+      "pipeline": "Government-funded",
+      "stage": "Low priority / monitor",
+      "score": 20,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-043": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-043",
+      "organisation_name": "Cliffmoor Enterprise Hub",
+      "pipeline": "Government-funded",
+      "stage": "Qualified \u2014 ready for outreach",
+      "score": 90,
+      "needs_human_review": false,
+      "recommended_next_action": "Prioritise \u2014 send initial outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-044": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-044",
+      "organisation_name": "Westgate Business Improvement District",
+      "pipeline": "Private-sector",
+      "stage": "Nurture",
+      "score": 65,
+      "needs_human_review": true,
+      "recommended_next_action": "Research / human review needed before outreach",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-045": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-045",
+      "organisation_name": "Castlemere Logistics Ltd",
+      "pipeline": "Private-sector",
+      "stage": "Excluded \u2014 Duplicate of LEAD-001",
+      "score": 95,
+      "needs_human_review": false,
+      "recommended_next_action": "Merge duplicate record \u2014 do not contact separately",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-046": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-046",
+      "organisation_name": "Silverline Financial Services",
+      "pipeline": "Private-sector",
+      "stage": "Excluded \u2014 Duplicate of LEAD-002",
+      "score": 85,
+      "needs_human_review": false,
+      "recommended_next_action": "Merge duplicate record \u2014 do not contact separately",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-047": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-047",
+      "organisation_name": "Castlemere Combined Authority",
+      "pipeline": "Government-funded",
+      "stage": "Excluded \u2014 Duplicate of LEAD-019",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Merge duplicate record \u2014 do not contact separately",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-048": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-048",
+      "organisation_name": "Thornbury Youth Trust",
+      "pipeline": "Government-funded",
+      "stage": "Excluded \u2014 Duplicate of LEAD-030",
+      "score": 90,
+      "needs_human_review": false,
+      "recommended_next_action": "Merge duplicate record \u2014 do not contact separately",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-049": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-049",
+      "organisation_name": "Pennington Engineering Ltd",
+      "pipeline": "Private-sector",
+      "stage": "Excluded \u2014 Duplicate of LEAD-011",
+      "score": 90,
+      "needs_human_review": false,
+      "recommended_next_action": "Merge duplicate record \u2014 do not contact separately",
+      "updated_at": "2026-10-15T13:38:51Z"
+    },
+    "LEAD-050": {
+      "created_at": "2026-10-15T13:38:51Z",
+      "lead_id": "LEAD-050",
+      "organisation_name": "Elmsworth District Council",
+      "pipeline": "Government-funded",
+      "stage": "Excluded \u2014 Duplicate of LEAD-021",
+      "score": 100,
+      "needs_human_review": false,
+      "recommended_next_action": "Merge duplicate record \u2014 do not contact separately",
+      "updated_at": "2026-10-15T13:38:51Z"
+    }
+  },
+  "tasks": [
+    {
+      "task_id": "TASK-0001",
+      "lead_id": "LEAD-001",
+      "title": "Review & approve outreach for Castlemere Logistics Ltd",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0002",
+      "lead_id": "LEAD-002",
+      "title": "Review & approve outreach for Silverline Financial Services",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0003",
+      "lead_id": "LEAD-003",
+      "title": "Review & approve outreach for Harrow Tech Solutions",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0004",
+      "lead_id": "LEAD-004",
+      "title": "Review & approve outreach for Granville Partners LLP",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0005",
+      "lead_id": "LEAD-005",
+      "title": "Review & approve outreach for Brightwell Financial Group",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0006",
+      "lead_id": "LEAD-007",
+      "title": "Research/qualify Thornbury Manufacturing before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0007",
+      "lead_id": "LEAD-008",
+      "title": "Research/qualify Marchbank Engineering before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0008",
+      "lead_id": "LEAD-009",
+      "title": "Research/qualify Corvid Technology Ltd before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0009",
+      "lead_id": "LEAD-010",
+      "title": "Research/qualify Westfold Retail Holdings before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0010",
+      "lead_id": "LEAD-011",
+      "title": "Review & approve outreach for Pennington Engineering Ltd",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0011",
+      "lead_id": "LEAD-012",
+      "title": "Review & approve outreach for Keel & Vane Software",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0012",
+      "lead_id": "LEAD-013",
+      "title": "Research/qualify Linden Grove Consulting before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0013",
+      "lead_id": "LEAD-016",
+      "title": "Review & approve outreach for Heathgate Capital Partners",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0014",
+      "lead_id": "LEAD-017",
+      "title": "Research/qualify Dunmore Retail Analytics before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0015",
+      "lead_id": "LEAD-019",
+      "title": "Review & approve outreach for Castlemere Combined Authority",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0016",
+      "lead_id": "LEAD-020",
+      "title": "Review & approve outreach for Thornbury Metropolitan Council",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0017",
+      "lead_id": "LEAD-021",
+      "title": "Review & approve outreach for Elmsworth District Council",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0018",
+      "lead_id": "LEAD-022",
+      "title": "Review & approve outreach for Northgate City Council",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0019",
+      "lead_id": "LEAD-023",
+      "title": "Research/qualify Ridgeway County Council before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0020",
+      "lead_id": "LEAD-024",
+      "title": "Research/qualify Marshside Borough Council before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0021",
+      "lead_id": "LEAD-025",
+      "title": "Research/qualify Vale of Elmsworth Enterprise Partnership before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0022",
+      "lead_id": "LEAD-026",
+      "title": "Review & approve outreach for Oakridge Further Education College",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0023",
+      "lead_id": "LEAD-027",
+      "title": "Research/qualify Bramcote Health Partnership before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0024",
+      "lead_id": "LEAD-028",
+      "title": "Review & approve outreach for Greywell Youth Service",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0025",
+      "lead_id": "LEAD-029",
+      "title": "Research/qualify Hartwell Metropolitan Borough before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0026",
+      "lead_id": "LEAD-030",
+      "title": "Review & approve outreach for Thornbury Youth Trust",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0027",
+      "lead_id": "LEAD-031",
+      "title": "Research/qualify Bridgeview Community Foundation before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0028",
+      "lead_id": "LEAD-032",
+      "title": "Review & approve outreach for Elmsworth Skills Charity",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0029",
+      "lead_id": "LEAD-033",
+      "title": "Research/qualify Oak & Acorn Social Enterprise before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0030",
+      "lead_id": "LEAD-034",
+      "title": "Research/qualify Riverside Futures CIC before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0031",
+      "lead_id": "LEAD-035",
+      "title": "Research/qualify Northgate Youth Connect before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0032",
+      "lead_id": "LEAD-036",
+      "title": "Research/qualify Fernhill Collective before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0033",
+      "lead_id": "LEAD-037",
+      "title": "Review & approve outreach for Abbotswood Data Systems",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0034",
+      "lead_id": "LEAD-038",
+      "title": "Review & approve outreach for Carrow & Finch Insurance",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0035",
+      "lead_id": "LEAD-039",
+      "title": "Research/qualify Ironford Steel Group before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0036",
+      "lead_id": "LEAD-040",
+      "title": "Review & approve outreach for Quillon Media Group",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0037",
+      "lead_id": "LEAD-041",
+      "title": "Research/qualify Dovecote NHS Trust before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0038",
+      "lead_id": "LEAD-042",
+      "title": "Research/qualify Priorswood Parish Council before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0039",
+      "lead_id": "LEAD-043",
+      "title": "Review & approve outreach for Cliffmoor Enterprise Hub",
+      "due_date": "2026-10-17",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    },
+    {
+      "task_id": "TASK-0040",
+      "lead_id": "LEAD-044",
+      "title": "Research/qualify Westgate Business Improvement District before outreach",
+      "due_date": "2026-10-18",
+      "status": "Open",
+      "created_at": "2026-10-15T13:38:51Z"
+    }
+  ],
+  "activities": [
+    {
+      "lead_id": "LEAD-001",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 95/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-001",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-002",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 85/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-002",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-003",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 95/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-003",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-004",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 85/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-004",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-005",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 100/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-005",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-006",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 38/100 \u2014 Low priority \u2014 monitor only, no active outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-006",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-007",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 35/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-007",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-008",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 55/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-008",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-009",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 53/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-009",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-010",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 75/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-010",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-011",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 90/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-011",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-012",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 100/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-012",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-013",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 70/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-013",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-014",
+      "activity_type": "Excluded",
+      "detail": "Consent/lawful-outreach review marked this lead 'Do not contact'",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-015",
+      "activity_type": "Excluded",
+      "detail": "Consent/lawful-outreach review marked this lead 'Do not contact'",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-016",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 95/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-016",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-017",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 65/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-017",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-018",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 20/100 \u2014 Identify the actual budget holder; use this contact only as an internal introduction",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-018",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-019",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 100/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-019",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-020",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 90/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-020",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-021",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 100/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-021",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-022",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 95/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-022",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-023",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 65/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-023",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-024",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 45/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-024",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-025",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 45/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-025",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-026",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 90/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-026",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-027",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 53/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-027",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-028",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 100/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-028",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-029",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 35/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-029",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-030",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 90/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-030",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-031",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 65/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-031",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-032",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 100/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-032",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-033",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 45/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-033",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-034",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 53/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-034",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-035",
+      "activity_type": "Scored",
+      "detail": "Unclear, 20/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-035",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-036",
+      "activity_type": "Scored",
+      "detail": "Unclear, 20/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-036",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-037",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 85/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-037",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-038",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 95/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-038",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-039",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 68/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-039",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-040",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 75/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-040",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-041",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 65/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-041",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-042",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 20/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-042",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-043",
+      "activity_type": "Scored",
+      "detail": "Government-funded, 90/100 \u2014 Prioritise \u2014 send initial outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-043",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-044",
+      "activity_type": "Scored",
+      "detail": "Private-sector, 65/100 \u2014 Research / human review needed before outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-044",
+      "activity_type": "Outreach drafted",
+      "detail": "Initial email + 2 follow-ups + briefing generated",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-045",
+      "activity_type": "Duplicate detected",
+      "detail": "Matched to LEAD-001; excluded from outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-046",
+      "activity_type": "Duplicate detected",
+      "detail": "Matched to LEAD-002; excluded from outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-047",
+      "activity_type": "Duplicate detected",
+      "detail": "Matched to LEAD-019; excluded from outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-048",
+      "activity_type": "Duplicate detected",
+      "detail": "Matched to LEAD-030; excluded from outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-049",
+      "activity_type": "Duplicate detected",
+      "detail": "Matched to LEAD-011; excluded from outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    },
+    {
+      "lead_id": "LEAD-050",
+      "activity_type": "Duplicate detected",
+      "detail": "Matched to LEAD-021; excluded from outreach",
+      "timestamp": "2026-10-15T13:38:51Z"
+    }
+  ],
+  "duplicates": {
+    "LEAD-045": "LEAD-001",
+    "LEAD-046": "LEAD-002",
+    "LEAD-047": "LEAD-019",
+    "LEAD-048": "LEAD-030",
+    "LEAD-049": "LEAD-011",
+    "LEAD-050": "LEAD-021"
+  },
+  "last_run": "2026-10-15T13:38:51Z"
+}

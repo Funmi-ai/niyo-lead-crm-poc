@@ -1,0 +1,35 @@
+{
+  "total_leads": 50,
+  "unique_leads": 44,
+  "duplicate_pairs": {
+    "LEAD-045": "LEAD-001",
+    "LEAD-046": "LEAD-002",
+    "LEAD-047": "LEAD-019",
+    "LEAD-048": "LEAD-030",
+    "LEAD-049": "LEAD-011",
+    "LEAD-050": "LEAD-021"
+  },
+  "expected_do_not_contact": [
+    "LEAD-014",
+    "LEAD-015"
+  ],
+  "expected_needs_review_at_least": [
+    "LEAD-008",
+    "LEAD-024",
+    "LEAD-025",
+    "LEAD-033",
+    "LEAD-035",
+    "LEAD-036"
+  ],
+  "expected_not_decision_maker": [
+    "LEAD-007",
+    "LEAD-018",
+    "LEAD-029",
+    "LEAD-042"
+  ],
+  "expected_unclear_pipeline": [
+    "LEAD-035",
+    "LEAD-036"
+  ],
+  "notes": "This file lists known, hand-placed characteristics of the synthetic dataset for regression testing. It does not pin exact scores, since scoring weights in rules_config.py are provisional and expected to change once Niyo confirms real ICP/eligibility rules."
+}

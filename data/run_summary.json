@@ -1,0 +1,35 @@
+{
+  "measured": {
+    "total_leads_imported": 50,
+    "unique_leads": 44,
+    "duplicates_detected": 6,
+    "leads_excluded_from_outreach": 2,
+    "leads_needing_human_review": 20,
+    "pipeline_breakdown": {
+      "Private-sector": 26,
+      "Government-funded": 22,
+      "Unclear": 2
+    },
+    "high_priority_leads": 22,
+    "outreach_drafts_generated": 42,
+    "crm_tasks_created": 40,
+    "crm_activities_logged": 92,
+    "software_processing_time_seconds": 0.043
+  },
+  "estimated_not_measured": {
+    "assumption_basis": "Editable manual-effort assumptions in src/core/rules_config.py MANUAL_MINUTES_PER_LEAD",
+    "manual_minutes_per_lead_assumed": 35,
+    "minutes_breakdown": {
+      "triage_and_dedupe": 3,
+      "pipeline_classification": 2,
+      "scoring_and_research": 7,
+      "decision_maker_identification": 5,
+      "drafting_outreach_sequence": 15,
+      "crm_update": 3
+    },
+    "leads_this_applies_to": 44,
+    "estimated_manual_minutes_total": 1540,
+    "estimated_manual_hours_total": 25.7,
+    "disclaimer": "This is an editable assumption about manual effort, not a measured result, and makes no claim about conversion-rate or revenue impact."
+  }
+}
